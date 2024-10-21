@@ -1,0 +1,1 @@
+Para probar si Codacy en otras ramas.
